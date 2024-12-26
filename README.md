@@ -19,4 +19,11 @@ Add the directory with the program to the antivirus exceptions. Some antiviruses
 If you have doubts, you can manually check all payloads through services such as VirusTotal to ensure their safety.
 CobaltPWN is a universal tool for conducting penetration tests and security assessments, combining advanced technology and ease of use for maximum efficiency.
 
-TOOLS
+TOOLS:
+![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143031.jpg)         ![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143017.jpg)
+
+![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143031.jpg)
+
+
+
+
