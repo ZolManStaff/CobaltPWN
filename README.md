@@ -18,3 +18,5 @@ Important recommendations for work:
 Add the directory with the program to the antivirus exceptions. Some antiviruses may mistakenly delete files associated with payloads due to their potential "danger".
 If you have doubts, you can manually check all payloads through services such as VirusTotal to ensure their safety.
 CobaltPWN is a universal tool for conducting penetration tests and security assessments, combining advanced technology and ease of use for maximum efficiency.
+
+TOOLS
