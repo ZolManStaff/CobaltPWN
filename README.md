@@ -22,7 +22,7 @@ CobaltPWN is a universal tool for conducting penetration tests and security asse
 TOOLS:
 
 
-![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143031.jpg)        
+![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143006.jpg)        
 
 ![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/Скриншот%2026-12-2024%20143031.jpg)
 
