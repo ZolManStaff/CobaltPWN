@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/ZolManStaff/CobaltPWN/refs/heads/main/photo_2024-12-01_15-15-26.jpg)
+
 CobaltPWN is a powerful framework for comprehensive web application and network security testing, designed for information security professionals. Combining an intuitive interface with advanced tools, it allows you to effectively identify and eliminate vulnerabilities such as SQL injections, XSS, CSRF, RFI, LFI, XXE and many others.
 
 Key features of the framework:
