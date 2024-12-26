@@ -1,0 +1,85 @@
+### Лицензионное соглашение / License Agreement
+
+---
+
+#### На русском языке
+
+**Лицензионное соглашение для программы "CobaltPWN"**
+
+1. **Общие положения**  
+   1.1 Программа "CobaltPWN" является интеллектуальной собственностью её автора (далее — "Правообладатель").  
+   1.2 Настоящее соглашение является юридически обязательным договором между пользователем (далее — "Пользователь") и Правообладателем.  
+   1.3 Использование программы означает полное согласие с условиями настоящего соглашения.  
+
+2. **Цели и использование**  
+   2.1 Программа предоставляется "как есть" ("as is") без каких-либо гарантий, включая пригодность для конкретных целей или бесперебойную работу.  
+   2.2 Разрешается использование программы исключительно для:  
+   - образовательных и исследовательских целей;  
+   - тестирования безопасности с письменного разрешения владельца тестируемой системы.  
+   2.3 Запрещается:  
+   - любое использование программы в противоправных целях, включая несанкционированное тестирование или получение доступа к данным;  
+   - распространение вредоносного программного обеспечения на основе программы.  
+
+3. **Ответственность сторон**  
+   3.1 Правообладатель не несёт ответственности за любой ущерб, включая прямой или косвенный, связанный с использованием программы.  
+   3.2 Пользователь обязуется соблюдать законодательство своей юрисдикции при использовании программы и несёт полную ответственность за любые нарушения.  
+
+4. **Интеллектуальная собственность**  
+   4.1 Программа и её компоненты защищены законами об авторском праве.  
+   4.2 Пользователь имеет право изменять программу для личного использования, но распространение модифицированных версий возможно только с сохранением данного соглашения.  
+
+5. **Обновления и поддержка**  
+   5.1 Правообладатель оставляет за собой право выпускать обновления программы, но не обязуется предоставлять техническую поддержку.  
+   5.2 Пользователь должен самостоятельно следить за обновлениями и их установкой.  
+
+6. **Прекращение действия соглашения**  
+   6.1 Соглашение вступает в силу с момента установки или первого использования программы.  
+   6.2 Нарушение Пользователем условий соглашения ведёт к автоматическому прекращению его действия.  
+
+7. **Юрисдикция**  
+   7.1 Настоящее соглашение разработано с учётом международного права, а также законодательства Российской Федерации и США.  
+   7.2 Все споры, возникающие в связи с настоящим соглашением, разрешаются в соответствии с законами страны проживания Пользователя, если иное не согласовано сторонами.  
+
+---
+
+#### In English
+
+**License Agreement for "CobaltPWN" Software**
+
+1. **General Terms**  
+   1.1 The "CobaltPWN" software is the intellectual property of its author (hereinafter referred to as the "Licensor").  
+   1.2 This agreement is a legally binding contract between the user (hereinafter referred to as the "User") and the Licensor.  
+   1.3 By using the software, the User agrees to comply with all terms of this agreement.  
+
+2. **Permitted Use**  
+   2.1 The software is provided "as is," without any guarantees, including but not limited to fitness for a particular purpose or uninterrupted operation.  
+   2.2 The software may only be used for:  
+   - educational and research purposes;  
+   - security testing with explicit written permission from the system owner.  
+   2.3 The following uses are strictly prohibited:  
+   - any illegal activity, including unauthorized testing or access to systems and data;  
+   - distributing malware created using the software.  
+
+3. **Liability**  
+   3.1 The Licensor is not liable for any damages, direct or indirect, resulting from the use of the software.  
+   3.2 The User is responsible for ensuring compliance with applicable laws in their jurisdiction and bears full liability for any violations.  
+
+4. **Intellectual Property**  
+   4.1 The software and its components are protected by copyright laws.  
+   4.2 The User may modify the software for personal use but must retain this agreement when distributing modified versions.  
+
+5. **Updates and Support**  
+   5.1 The Licensor reserves the right to release updates but is not obligated to provide technical support.  
+   5.2 It is the User’s responsibility to monitor and apply updates as needed.  
+
+6. **Termination**  
+   6.1 This agreement takes effect upon installation or first use of the software.  
+   6.2 Violation of the terms by the User will result in automatic termination of the agreement.  
+
+7. **Jurisdiction**  
+   7.1 This agreement is designed to comply with international laws, including the laws of the Russian Federation and the United States.  
+   7.2 Disputes arising under this agreement will be resolved under the laws of the User's jurisdiction unless otherwise agreed by the parties.  
+
+---
+
+**End of Agreement**
